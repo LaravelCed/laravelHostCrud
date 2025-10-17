@@ -221,6 +221,7 @@
         </table>
     </div>
 
+    <!-- For Signature Placing Function -->
     <!-- Modal -->
     <div id="myModal" class="modal">
         <div class="modal-content">
@@ -435,6 +436,7 @@
             }
         });
     </script>
+    <!-- For Signature Placing Function End -->
 
 </body>
 </html>
